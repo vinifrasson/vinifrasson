@@ -1,7 +1,4 @@
-### Hi, i'm Viini 👋
-
-
-- 🌱 I’m currently focusing on learning SpringBoot - Vue.js
+### Hi, i'm Vinícius Frasson
 
 - 📫 How to reach me: vinifrasson13@gmail.com
 
